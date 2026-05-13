@@ -464,11 +464,3 @@ A: 使用 `torch.jit.trace()` 或 `torch.onnx.export()` 导出模型。
 3. 训练前确保有足够的 GPU 内存
 4. 模型权重文件会自动保存到项目根目录
 5. 更换数据集后记得修改 `config.py` 中的类别配置
-
-## 许可证
-
-本项目仅供学习和研究使用。
-
-## 贡献
-
-欢迎提交 Issue 和 Pull Request！
